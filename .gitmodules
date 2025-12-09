@@ -1,0 +1,3 @@
+[submodule "raug"]
+	path = raug
+	url = git@github.com:life-ufes/raug.git
